@@ -15,7 +15,7 @@ setup(
         "License :: OSI Approved :: BSD License",
         "Operating System :: OS Independent",
         "Programming Language :: Python :: 3",
-        "Programming Language :: Ruby"
+        "Programming Language :: Ruby",
         "Topic :: Software Development :: Interpreters"],
     platforms=[
         "Any"],
