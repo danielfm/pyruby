@@ -1,0 +1,3 @@
+include COPYING
+include DISCLAIMER
+include README.rst
