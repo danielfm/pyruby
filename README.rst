@@ -64,6 +64,13 @@ To do that, just import the ``python`` module and you're done::
 As you could see, it's even possible to seamlessly call Ruby code from Python
 and vice-versa.
 
+Donate
+------
+
+If this project is useful for you, buy me a beer!
+
+Bitcoin: ``1CLFiuB5oghPjnq8zXFkYgKyFnCTVWEV1r``
+
 
 .. _Ruby: http://ruby-lang.org
 .. _PyPI: http://pypi.python.org/pypi
